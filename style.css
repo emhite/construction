@@ -1,5 +1,7 @@
-.contaier {
+.container {
   position: relative;
+  text-align: center;
+  color: white;
 }
 
 .centered {
