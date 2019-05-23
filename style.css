@@ -1,3 +1,7 @@
+.contaier {
+  position: relative;
+}
+
 .centered {
   position: absolute;
   top: 50%;
