@@ -9,11 +9,6 @@ body {
   overflow: hidden;
 }
 
-.content-wrapper {
-  width: 80%;
-  margin: 4% 10% 5% 10%;
-}
-
 .content wrapper img{
   width: 100%;
 }
