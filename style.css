@@ -3,18 +3,18 @@ color: black;
 font-size: 60px;
 font-family: verdana;
 text-align:center;
-position: absolute;
+
 margin-top: 30%;
 }
 
 .background {
 width: 100%;
 height: 100%;
-position: absolute;
+
 }
 
 .gif {
   width: 50%;
   height: 50%;
-  position: absolute;
+  
 } 
