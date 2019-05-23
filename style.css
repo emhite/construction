@@ -1,23 +1,19 @@
-
-
 body {
-  width: 100%;
-  height: auto;
-  overflow: hidden;
+  margin:0;
+  font-family: verdana;
 }
 
-.content wrapper img{
-  width: 100%;
+.block {
+  height: 350px;
+  background: url(gradient.jpg);
+  background-size: cover;
+  text align: center;
 }
 
-.text-wrapper {
-  width: 100%;
-  position: relative;
-  margin-top: 40%;
-}
-
-.text-wrapper h1 {
-  text-align: center;
+h1 {
+  line-height: 350px;
   color: white;
-  font-size: 10vw;
+  font-size: 60px;
+  margin: auto;
 }
+  
