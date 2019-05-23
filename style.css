@@ -6,7 +6,7 @@
 
 .centered {
   position: absolute;
-  top: 50%;
+  top: 60%;
   left: 50%;
   transform: translate(-50%, -50%);
   margin-top: 20px;
@@ -14,10 +14,9 @@
 
 .gif {
   position: absolute;
-  top: 30%;
+  top: 27%;
   left: 50%;
   transform: translate(-50%, -50%);
-  opacity; 0.5;
 } 
   
 h1 {
