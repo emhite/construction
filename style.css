@@ -14,7 +14,7 @@
 
 .gif {
   position: absolute;
-  transform: translate(0, 5%);
+  transform: translate(0, -60%);
   opacity: 0.10;
 }
  
