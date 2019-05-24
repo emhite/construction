@@ -23,3 +23,7 @@ h1 {
   font-family: verdana;
   font-size: 60px;
 }
+
+body { 
+  background: url("baxkground-alone") repeat-y fixed center; 
+} 
