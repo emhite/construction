@@ -25,5 +25,6 @@ h1 {
 }
 
 body { 
-  background: url("baxkground-alone") repeat-y fixed center; 
+  background: url("baxkground-alone")
+  background-repeat: repeat-y;
 } 
